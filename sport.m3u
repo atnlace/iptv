@@ -1,0 +1,51 @@
+#EXTM3U url-tvg="http://bit.ly/guidevn" deinterlace=1
+#EXTINF:-1 group-title="CLEAN AUDIO" tvg-id="Sky Sport 1 HD",SKY SPORT 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
+#EXTINF:-1 group-title="CLEAN AUDIO" tvg-id="Sky Sport Austria 1 HD",SKY SPORT AUSTRIA 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=f1eb19e0733f7be5546a09f2aa89ff6b4d986767
+#EXTINF:-1 group-title="CLEAN AUDIO",SKY SPORT BUNDESLIGA 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370
+#EXTINF:-1 group-title="CLEAN AUDIO" tvg-id="Sky Sport F1 HD",SKY SPORT F1 DE FHD
+http://127.0.0.1:6878/ace/getstream?id=bf1c1973456c16eeb0dc6a2ce897b65c8f721706
+#EXTINF:-1 group-title="Others" tvg-id="DAZN 1 HD",DAZN 1 HD
+http://127.0.0.1:6878/ace/getstream?id=9c2a1031d972cb21e51d8ff6cf95a38d98b8f87e
+#EXTINF:-1 group-title="Others" tvg-id="DAZN 2 HD",DAZN 2 HD
+http://127.0.0.1:6878/ace/getstream?id=699ed54b2a140b7d75ba06ecbe8c578e079b8db2
+#EXTINF:-1 group-title="CLEAN AUDIO",Маtch ТV FHD
+http://127.0.0.1:6878/ace/getstream?id=c7f93329f3790d54491fe2c4146b59d0514d38b8
+#EXTINF:-1 group-title="Others",Маtch Futbol 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
+#EXTINF:-1 group-title="Others",Маtch Futbol 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=cfc79383b29505fe88c4875e4997cbfce1a5196f
+#EXTINF:-1 group-title="Others",Маtch Futbol 3 FHD
+http://127.0.0.1:6878/ace/getstream?id=b120fc00572b516163aaa624f0d1ba095af58f9a
+#EXTINF:-1 group-title="Others",Маtch Arena FHD
+http://127.0.0.1:6878/ace/getstream?id=d13cbb3eb8a843cbdacc9068fc76f98c2351af50
+#EXTINF:-1 group-title="Others",Маtch Game FHD
+http://127.0.0.1:6878/ace/getstream?id=24428411815bc1dd069c0cbd377e55bee53c55a7
+#EXTINF:-1 group-title="CLEAN AUDIO",MOVISTAR LALIGA FHD
+http://127.0.0.1:6878/ace/getstream?id=9007568a18c3a3c89fb9e745206a60554c114917
+#EXTINF:-1 group-title="CLEAN AUDIO",MOVISTAR LC FHD
+http://127.0.0.1:6878/ace/getstream?id=b0aa6d932aaf12452c91ed5fb07642c6a31394d7
+#EXTINF:-1 group-title="Others",BT Sport 1 HD
+#http://5.182.229.75:8080/2505/mpegts
+http://127.0.0.1:6878/ace/getstream?id=d63cf72bc2661238fcd2e343ccc2582b5bd9bc14
+#EXTINF:-1 group-title="Others",BT Sport 2 HD
+#http://5.182.229.75:8080/2506/mpegts
+http://127.0.0.1:6878/ace/getstream?id=99c2acebde1c1dc7a05419771110ff64fb444a96
+#EXTINF:-1 group-title="Others",BT Sport 3 HD
+http://127.0.0.1:6878/ace/getstream?id=3c60f36f8f913be1b4edae0cbc356d6cf9a52936
+#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK1
+http://127.0.0.1:6878/ace/getstream?id=6995fd79ae02f5559172feaccbfe46e0418c9502
+#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK2
+http://127.0.0.1:6878/ace/getstream?id=ef85d17ddd020e6d5924338ee8a246a6be1c7eff
+#EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK3
+http://127.0.0.1:6878/ace/getstream?id=bdc6c6efb3572f2710ac16eee1e2e471ea621017
+#EXTINF:-1 group-title="4K - THANKS TO NGUYEN HOAI" tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1_UHD.png",Eleven Sports 4K
+#https://hoaivnpt-livefootball.000webhostapp.com/d_iptv.php?id=101897
+#EXTINF:-1 group-title="4K - THANKS TO NGUYEN HOAI" tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1_UHD.png",RMC 4K
+#https://hoaivnpt-livefootball.000webhostapp.com/d_iptv.php?id=19551
+#EXTINF:-1 group-title="My Channel",CVace Channel
+#http://127.0.0.1:6878/ace/getstream?id=3ff6dd67f269f7445f9132ca69888049c9b576f4
+#http://103.195.238.226/aisharelamcho02/mpegts
+https://97646d3db6.vws.vegacdn.vn/live/_definst_/stream_1_a9bf9/playlist.m3u8
