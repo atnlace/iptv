@@ -2,22 +2,6 @@
 #https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114406&authkey=AKvjuJE8ckCldwM
 
 #EXTM3U ℂ𝕠𝕠𝕔𝕒𝕒𝕋𝕍- List làm để phục vụ cộng đồng. Vui lòng không copy!!!
-
-#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!-Intro
-
-#EXTINF:0 group-title="🥤" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Coocaa_logo.png",☞ Làm mới list
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8?bycoca
-#EXTINF:0 group-title="🥤" tvg-logo="https://telegramchannels.me/storage/media-logo/2103/tivimate_en.jpg", ☜ App khuyên dùng
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8?bycoca
-#EXTINF:0 group-title="🥤" tvg-logo="https://i.pinimg.com/originals/3b/42/0c/3b420c76523098a5ff79800ec99fdda3.jpg",✍ by Henry Vo
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://web-livecdn.fptplay.net/hdevent/vtv6hd_vhls.smil/chunklist_b5000000.m3u8?bycoca
-#EXTINF:0 group-title="🥤" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0f/TVB_Logo_Vietnam.png/revision/latest/scale-to-width-down/200?cb=20201121101211&path-prefix=vi",✜ http://gg.gg/coocaaF
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd2/index.m3u8?bycoca|Referer=http://sctvonline.vn/
-
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!-VTV
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="1️⃣| VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
